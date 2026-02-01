@@ -1,1 +1,2 @@
-"Data.zip" is the training dataset for MEUIG. "flow-matching-1.zip" is the MEUIG program. If you wish to use the code and datasets of MEUIG, please indicate the source.
+"Data.zip" is the training dataset for MEUIG. "flow-matching-1.zip" is the MEUIG program. If you wish to use the code and datasets of MEUIG, please indicate the source "Multimodal enhanced underwater image generation method using flow matching model".
+Yu H, Zhu C, Zhang R, et al. Multimodal enhanced underwater image generation method using flow matching model[J]. Digital Signal Processing, 2026: 105964.
